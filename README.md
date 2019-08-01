@@ -30,4 +30,4 @@ sh droid.sh ~/research/download
 
 
 ## License
-[License](https:)
+[License](https://github.com/quantummm/UIautoTest/blob/master/LICENSE)
