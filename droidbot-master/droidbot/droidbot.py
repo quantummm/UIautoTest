@@ -15,7 +15,6 @@ from .env_manager import AppEnvManager
 from .input_manager import InputManager
 
 
-
 class DroidBot(object):
     """
     The main class of droidbot
