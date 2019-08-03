@@ -1,6 +1,7 @@
 # UiautoTest
 
-UiautoTest is a program that can be tested automatically. Based on the program design of [DroidBot](https://github.com/honeynet/droidbot), it can automatically collect UI information on apps. And it is also programmable. The commands can be changed according to the demand.
+UiautoTest is a program that can be tested automatically. Based on the program design of [DroidBot](https://github.com/honeynet/droidbot), it can automatically collect UI information on apps. And it is also programmable. The commands can be changed according to the demand. The program also can identify two different states and record the current action between these two states.
+
 
 ## Prerequisite
 
