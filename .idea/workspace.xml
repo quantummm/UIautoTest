@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="416937dc-fcba-4d12-988b-42b315cedda5" name="Default Changelist" comment="initial commit">
-      <change beforePath="$PROJECT_DIR$/droidbot-master" beforeDir="false" afterPath="$PROJECT_DIR$/droidbot-master" afterDir="false" />
+    <list default="true" id="416937dc-fcba-4d12-988b-42b315cedda5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,24 +13,89 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/droid.sh">
+        <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/droidbot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="-2038">
+              <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/droidmaster.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4798" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/env_manager.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5623" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-733">
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/adapter/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/adapter/adapter.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/adapter/cv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2398" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/adapter/droidbot_app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="245" column="54" lean-forward="true" selection-start-line="245" selection-start-column="54" selection-end-line="245" selection-end-column="54" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/droidbot.py">
+        <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/adapter/droidbot_ime.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="258">
+              <caret line="92" column="18" selection-start-line="92" selection-end-line="93" />
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/adapter/adb.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>droidbot_app_conn</find>
+      <find>DroidBotIme</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="REBASE" />
@@ -57,6 +122,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -75,11 +141,17 @@
               <item name="droidbot-master" type="462c0819:PsiDirectoryNode" />
               <item name="droidbot" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="UIautoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UIautoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="droidbot-master" type="462c0819:PsiDirectoryNode" />
+              <item name="droidbot" type="462c0819:PsiDirectoryNode" />
+              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -136,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564643939565</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="uodate files">
+      <created>1564814138273</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564814138273</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -150,14 +229,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="23" width="1578" height="953" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983944" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983944" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" weight="0.329849" />
-      <window_info anchor="bottom" id="Python Console" sideWeight="0.49967888" weight="0.329849" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.4977521" visible="true" weight="0.329849" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.5022479" side_tool="true" visible="true" weight="0.329849" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49967888" weight="0.329849" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -165,6 +241,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329849" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4990366" visible="true" weight="0.329849" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4977521" weight="0.329849" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5009634" side_tool="true" visible="true" weight="0.329849" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49967888" weight="0.329849" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -178,22 +258,13 @@
     </ignored-roots>
     <MESSAGE value="add a license" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="uodate files" />
+    <option name="LAST_COMMIT_MESSAGE" value="uodate files" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/droidbot-master/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/droidbot-master/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/file" />
     <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/input_policy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
@@ -218,10 +289,115 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="172" column="13" lean-forward="true" selection-start-line="172" selection-start-column="13" selection-end-line="172" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/utg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3163">
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/input_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2113">
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/input_event.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10768">
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/device.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13663">
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/droidmaster.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4798" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/env_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5623" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-733">
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/adapter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/adapter/adb.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/adapter/adapter.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/adapter/cv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2398" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/droidbot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="-2038">
+          <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/adapter/droidbot_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="245" column="54" lean-forward="true" selection-start-line="245" selection-start-column="54" selection-end-line="245" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/droidbot-master/droidbot/adapter/droidbot_ime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="92" column="18" selection-start-line="92" selection-end-line="93" />
         </state>
       </provider>
     </entry>

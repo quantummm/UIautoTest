@@ -17,3 +17,5 @@ do
    package=$(aapt dump badging "$file" | awk '/package/{gsub("name=|'"'"'","");            print $2}')
    droidbot -a $file -o "$1"/"$package"/ -is_emulator -keep_env
 done
+
+exit 0
